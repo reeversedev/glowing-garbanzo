@@ -1,0 +1,25 @@
+{
+  "name": "glowing-garbanzo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeversedev/glowing-garbanzo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeversedev/glowing-garbanzo/issues"
+  },
+  "homepage": "https://github.com/reeversedev/glowing-garbanzo#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.8.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0"
+  }
+}
